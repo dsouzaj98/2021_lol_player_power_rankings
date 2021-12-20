@@ -1,4 +1,4 @@
-# 2021_lol_player_power_rankings
+# 2021 Spring Player Rankings
 
 
 ## Top
