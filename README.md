@@ -3,7 +3,7 @@
 ![LCS](images/LCS_image.jpeg)
 
 # Top
-|                    |   Johann |   aMilad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
+|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Top [C9 Summit]    |        1 |       1 |     1 |        2 |      1 |            1.2 |         2 |        1 |
 | Top [TL Bwipo]     |        2 |       2 |     2 |        4 |      2 |            2.4 |         4 |        2 |
