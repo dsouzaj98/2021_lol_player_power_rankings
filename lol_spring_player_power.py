@@ -34,7 +34,7 @@ dfs=[top_df,jg_df, mid_df, adc_df, sup_df]
 average=[]
 
 for pos in dfs:
-    pos.rename(index={0:'Johann', 1: 'Milad', 2: 'Tak', 3: 'Joimes'}, inplace=True)
+    pos.rename(index={0:'Johann', 1: 'Milad', 2: 'Tak', 3: 'Joimes', 4:'Zain'}, inplace=True)
     pos.loc['average rank']=df.mean()
     pos.reset_index(inplace=True)
     pos.rename(columns={'index': 'Name'}, inplace=True)
