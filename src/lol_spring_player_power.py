@@ -6,7 +6,7 @@ import seaborn as sns
 from tabulate import tabulate
 # %matplotlib inline
 
-df=pd.read_excel('player_ranking_data.xlsx')
+df=pd.read_excel('data/player_ranking_data.xlsx')
 
 top_dict={}
 jg_dict={}

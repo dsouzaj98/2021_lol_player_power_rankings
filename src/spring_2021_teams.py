@@ -1,6 +1,6 @@
 import pandas as pd
 
-res=pd.read_excel('LCS_team_predictions.xlsx')
+res=pd.read_excel('data/LCS_team_predictions.xlsx')
 
 new_cols=dict(keys=res.columns)
 res.columns = res.columns.str.replace("Rank the team's performance in spring split", "")

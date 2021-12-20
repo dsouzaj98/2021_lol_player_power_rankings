@@ -1,7 +1,8 @@
 # 2021 Spring Player Rankings
 
+![LCS](LCS_image.jpeg)
 
-## Top
+# Top
 |                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Top [C9 Summit]    |        1 |       1 |     1 |        2 |      1 |            1.2 |         2 |        1 |
@@ -15,7 +16,7 @@
 | Top [DIG FakeGod]  |        9 |       8 |     7 |        8 |      9 |            8.2 |         9 |        7 |
 | Top [FLY Kumo]     |       10 |      10 |    10 |        6 |     10 |            9.2 |        10 |        6 |
 
-## Jungle
+# Jungle
 |                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:--------------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Jungle [EG Inspired]      |        1 |       3 |     1 |        2 |      1 |            1.6 |         3 |        1 |
@@ -29,7 +30,7 @@
 | Jungle [FLY Josedeodo]    |       10 |       9 |     8 |        6 |      9 |            8.4 |        10 |        6 |
 | Jungle [DIG River]        |        7 |      10 |    10 |        8 |      8 |            8.6 |        10 |        7 |
 
-## Mid
+# Mid
 |                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:----------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Mid [TL Bjergsen]     |        1 |       1 |     2 |        1 |      2 |            1.4 |         2 |        1 |
@@ -43,7 +44,7 @@
 | Mid [CLG Palafox]     |        9 |       9 |    10 |        6 |      8 |            8.4 |        10 |        6 |
 | Mid [DIG Blue]        |       10 |      10 |     9 |       10 |     10 |            9.8 |        10 |        9 |
 
-## ADC
+# ADC
 |                      |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:---------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | ADC [TL Hans Sama]   |        1 |       1 |     1 |        1 |      1 |            1   |         1 |        1 |
@@ -58,7 +59,7 @@
 | ADC [DIG Neo]        |        7 |      10 |     8 |       10 |      7 |            8.4 |        10 |        7 |
 
 
-## Support
+# Support
 |                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | SUP [TL CoreJJ]    |        1 |       1 |     1 |        1 |      1 |            1   |         1 |        1 |
