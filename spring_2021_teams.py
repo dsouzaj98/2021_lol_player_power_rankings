@@ -12,6 +12,8 @@ df.drop(columns='Timestamp', axis=1, inplace=True)
 df.set_index(['Name'], inplace=True)
 
 df.loc['Average Rank']=df.mean()
+df.loc['Highest']=df.max()
+df.loc['Lowest']=df.min()
 df=df.round(2)
 df=df.T
 df.sort_values('Average Rank', axis=0, inplace=True)

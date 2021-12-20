@@ -35,7 +35,9 @@ average=[]
 
 for pos in dfs:
     pos.rename(index={0:'Johann', 1: 'Milad', 2: 'Tak', 3: 'Joimes', 4:'Zain'}, inplace=True)
-    pos.loc['average rank']=df.mean()
+    pos.loc['Average Rank']=df.mean()
+    pos.loc['Highest']=df.max()
+    pos.loc['Lowest']=df.min()
     pos.reset_index(inplace=True)
     pos.rename(columns={'index': 'Name'}, inplace=True)
     s=pos.iloc[4]
@@ -47,6 +49,6 @@ for df in dfs:
     df.set_index(['Name'], inplace=True)
     df=df.T
     breakpoint()
-    df.sort_values('average rank', inplace=True)
+    df.sort_values('Average Rank', inplace=True)
     print(df.to_markdown( headers='keys'))
 
