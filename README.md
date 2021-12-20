@@ -1,9 +1,9 @@
 # 2021 Spring Player Rankings
 
-![LCS](LCS_image.jpeg)
+![LCS](images/LCS_image.jpeg)
 
 # Top
-|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
+|                    |   Johann |   aMilad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Top [C9 Summit]    |        1 |       1 |     1 |        2 |      1 |            1.2 |         2 |        1 |
 | Top [TL Bwipo]     |        2 |       2 |     2 |        4 |      2 |            2.4 |         4 |        2 |
@@ -87,3 +87,6 @@
 | [GG]   |      10 |      9 |        9 |     7 |      7 |       8 |           8.33 |        10 |        7 |
 | [CLG]  |       9 |     10 |        6 |     9 |      9 |       9 |           8.67 |        10 |        6 |
 | [DIG]  |       8 |      7 |       10 |    10 |     10 |      10 |           9.17 |        10 |        7 |
+
+
+![stadium](images/LCS_stadium.jpg)
