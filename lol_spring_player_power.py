@@ -6,7 +6,7 @@ import seaborn as sns
 from tabulate import tabulate
 # %matplotlib inline
 
-df=pd.read_excel('test rankings.xlsx')
+df=pd.read_excel('player_ranking_data.xlsx')
 
 top_dict={}
 jg_dict={}
@@ -44,5 +44,9 @@ for pos in dfs:
     average.append(s)
 
 for df in dfs:
-    print(tabulate(df, headers='keys'))
+    df.set_index(['Name'], inplace=True)
+    df=df.T
+    breakpoint()
+    df.sort_values('average rank', inplace=True)
+    print(df.to_markdown( headers='keys'))
 
