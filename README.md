@@ -5,7 +5,7 @@
 
 <br/><br/>
 # **Top**
-|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
+|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Lowest |   Highest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Top [C9 Summit]    |        1 |       1 |     1 |        2 |      1 |            1.2 |         2 |        1 |
 | Top [TL Bwipo]     |        2 |       2 |     2 |        4 |      2 |            2.4 |         4 |        2 |
@@ -18,8 +18,8 @@
 | Top [DIG FakeGod]  |        9 |       8 |     7 |        8 |      9 |            8.2 |         9 |        7 |
 | Top [FLY Kumo]     |       10 |      10 |    10 |        6 |     10 |            9.2 |        10 |        6 |
 <br/>
-# Jungle
-|                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
+# **Jungle**
+|                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Lowest |   Highest |
 |:--------------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Jungle [EG Inspired]      |        1 |       3 |     1 |        2 |      1 |            1.6 |         3 |        1 |
 | Jungle [C9 Blaber]        |        3 |       1 |     4 |        1 |      3 |            2.4 |         4 |        1 |
@@ -32,8 +32,8 @@
 | Jungle [FLY Josedeodo]    |       10 |       9 |     8 |        6 |      9 |            8.4 |        10 |        6 |
 | Jungle [DIG River]        |        7 |      10 |    10 |        8 |      8 |            8.6 |        10 |        7 |
 <br/>
-# Mid
-|                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
+# **Mid**
+|                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Lowest |   Highest |
 |:----------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Mid [TL Bjergsen]     |        1 |       1 |     2 |        1 |      2 |            1.4 |         2 |        1 |
 | Mid [100T Abbedagge]  |        2 |       2 |     3 |        4 |      1 |            2.4 |         4 |        1 |
@@ -46,8 +46,8 @@
 | Mid [CLG Palafox]     |        9 |       9 |    10 |        6 |      8 |            8.4 |        10 |        6 |
 | Mid [DIG Blue]        |       10 |      10 |     9 |       10 |     10 |            9.8 |        10 |        9 |
 <br/>
-# ADC
-|                      |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
+# **ADC**
+|                      |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Lowest |   Highest |
 |:---------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | ADC [TL Hans Sama]   |        1 |       1 |     1 |        1 |      1 |            1   |         1 |        1 |
 | ADC [C9 Berserker]   |        2 |       2 |     2 |        3 |      3 |            2.4 |         3 |        2 |
@@ -59,11 +59,9 @@
 | ADC [IMT Wildturtle] |        9 |       8 |    10 |        7 |      6 |            8   |        10 |        6 |
 | ADC [CLG Luger]      |        6 |       9 |     7 |        9 |     10 |            8.2 |        10 |        6 |
 | ADC [DIG Neo]        |        7 |      10 |     8 |       10 |      7 |            8.4 |        10 |        7 |
-
 <br/>
-
-# Support
-|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
+# **Support**
+|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Lowest |   Highest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | SUP [TL CoreJJ]    |        1 |       1 |     1 |        1 |      1 |            1   |         1 |        1 |
 | SUP [EG Vulcan]    |        2 |       2 |     2 |        2 |      3 |            2.2 |         3 |        2 |
