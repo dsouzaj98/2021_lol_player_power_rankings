@@ -18,7 +18,7 @@
 | Top [DIG FakeGod]  |        9 |       8 |     7 |        8 |      9 |            8.2 |         9 |        7 |
 | Top [FLY Kumo]     |       10 |      10 |    10 |        6 |     10 |            9.2 |        10 |        6 |
 
-<br/>
+
 # **Jungle**
 
 |                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
