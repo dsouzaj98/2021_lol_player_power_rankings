@@ -69,7 +69,7 @@
 | SUP [EG Vulcan]    |        2 |       2 |     2 |        2 |      3 |            2.2 |         3 |        2 |
 | SUP [TSM Shenyi]   |        3 |       3 |     3 |        3 |      5 |            3.4 |         5 |        3 |
 | SUP [100T Huhi]    |        4 |       4 |     4 |        6 |      2 |            4   |         6 |        2 |
-| SUP [C9 Isles]     |        5 |       5 |     5 |        4 |      6 |            5   |         6 |        4 |
+| SUP [C9 Winsome]     |        5 |       5 |     5 |        4 |      6 |            5   |         6 |        4 |
 | SUP [FLY Aphromoo] |        6 |       6 |     7 |        7 |      4 |            6   |         7 |        4 |
 | SUP [GGS Olleh]    |        8 |       9 |     6 |        5 |      7 |            7   |         9 |        5 |
 | SUP [CLG Poome]    |        7 |       7 |     8 |        9 |     10 |            8.2 |        10 |        7 |
