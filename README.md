@@ -17,8 +17,7 @@
 | Top [CLG Jenkins]  |        7 |       9 |     6 |       10 |      8 |            8   |        10 |        6 |
 | Top [DIG FakeGod]  |        9 |       8 |     7 |        8 |      9 |            8.2 |         9 |        7 |
 | Top [FLY Kumo]     |       10 |      10 |    10 |        6 |     10 |            9.2 |        10 |        6 |
-<br/>
-# **Jungle**
+
 |                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:--------------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Jungle [EG Inspired]      |        1 |       3 |     1 |        2 |      1 |            1.6 |         3 |        1 |
@@ -31,8 +30,6 @@
 | Jungle [CLG Contractz]    |        8 |       8 |     6 |        9 |     10 |            8.2 |        10 |        6 |
 | Jungle [FLY Josedeodo]    |       10 |       9 |     8 |        6 |      9 |            8.4 |        10 |        6 |
 | Jungle [DIG River]        |        7 |      10 |    10 |        8 |      8 |            8.6 |        10 |        7 |
-<br/>
-# **Mid**
 |                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:----------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Mid [TL Bjergsen]     |        1 |       1 |     2 |        1 |      2 |            1.4 |         2 |        1 |
@@ -45,8 +42,6 @@
 | Mid [FLY Toucouille]  |        7 |       8 |     7 |        9 |      9 |            8   |         9 |        7 |
 | Mid [CLG Palafox]     |        9 |       9 |    10 |        6 |      8 |            8.4 |        10 |        6 |
 | Mid [DIG Blue]        |       10 |      10 |     9 |       10 |     10 |            9.8 |        10 |        9 |
-<br/>
-# **ADC**
 |                      |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:---------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | ADC [TL Hans Sama]   |        1 |       1 |     1 |        1 |      1 |            1   |         1 |        1 |
@@ -59,8 +54,6 @@
 | ADC [IMT Wildturtle] |        9 |       8 |    10 |        7 |      6 |            8   |        10 |        6 |
 | ADC [CLG Luger]      |        6 |       9 |     7 |        9 |     10 |            8.2 |        10 |        6 |
 | ADC [DIG Neo]        |        7 |      10 |     8 |       10 |      7 |            8.4 |        10 |        7 |
-<br/>
-# **Support**
 |                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | SUP [TL CoreJJ]    |        1 |       1 |     1 |        1 |      1 |            1   |         1 |        1 |
