@@ -5,6 +5,7 @@ import numpy as np
 import seaborn as sns
 from tabulate import tabulate
 # %matplotlib inline
+import collections
 
 df=pd.read_excel('data/player_ranking_data.xlsx')
 
@@ -13,6 +14,9 @@ jg_dict={}
 mid_dict={}
 adc_dict={}
 sup_dict={}
+dicts=[top_dict,jg_dict,mid_dict,adc_dict,sup_dict]
+teams=['TL','TSM','C9','100T','EG','IMT','GGS','CLG','DIG','FLY']
+team_dict=collections.defaultdict(list)
 for (col, data) in df.iteritems():
     if col.startswith('Top'):
         top_dict[col]=data
@@ -24,6 +28,20 @@ for (col, data) in df.iteritems():
         adc_dict[col]=data
     if col.startswith('SUP'):
         sup_dict[col]=data
+
+def get_player_rankings_by_team():
+    final_dict= collections.defaultdict(list,keys=teams)
+    for team in teams:
+        for pos in dicts:
+            for key, value in pos.items():
+                    if team in key:
+                        team_dict[team].append((key,value))
+    for team in team_dict:
+        player=team_dict[team][0][1].mean()
+        final_dict[team].append(player)
+    return final_dict
+
+
 
 top_df=pd.DataFrame.from_dict(top_dict)
 jg_df=pd.DataFrame.from_dict(jg_dict)
@@ -48,7 +66,6 @@ for pos in dfs:
 for df in dfs:
     df.set_index(['Name'], inplace=True)
     df=df.T
-    breakpoint()
     df.sort_values('Average Rank', inplace=True)
     print(df.to_markdown( headers='keys'))
 
