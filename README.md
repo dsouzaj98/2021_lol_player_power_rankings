@@ -17,8 +17,10 @@
 | Top [CLG Jenkins]  |        7 |       9 |     6 |       10 |      8 |            8   |        10 |        6 |
 | Top [DIG FakeGod]  |        9 |       8 |     7 |        8 |      9 |            8.2 |         9 |        7 |
 | Top [FLY Kumo]     |       10 |      10 |    10 |        6 |     10 |            9.2 |        10 |        6 |
+
 <br/>
 # **Jungle**
+
 |                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:--------------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Jungle [EG Inspired]      |        1 |       3 |     1 |        2 |      1 |            1.6 |         3 |        1 |
