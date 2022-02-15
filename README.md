@@ -1,8 +1,10 @@
 # 2021 Spring Player Rankings
 
 ![LCS](images/LCS_image.jpeg)
+<br/>
 
-# Top
+<br/><br/>
+# **Top**
 |                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
 | Top [C9 Summit]    |        1 |       1 |     1 |        2 |      1 |            1.2 |         2 |        1 |
@@ -15,7 +17,7 @@
 | Top [CLG Jenkins]  |        7 |       9 |     6 |       10 |      8 |            8   |        10 |        6 |
 | Top [DIG FakeGod]  |        9 |       8 |     7 |        8 |      9 |            8.2 |         9 |        7 |
 | Top [FLY Kumo]     |       10 |      10 |    10 |        6 |     10 |            9.2 |        10 |        6 |
-
+<br/>
 # Jungle
 |                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:--------------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
@@ -29,7 +31,7 @@
 | Jungle [CLG Contractz]    |        8 |       8 |     6 |        9 |     10 |            8.2 |        10 |        6 |
 | Jungle [FLY Josedeodo]    |       10 |       9 |     8 |        6 |      9 |            8.4 |        10 |        6 |
 | Jungle [DIG River]        |        7 |      10 |    10 |        8 |      8 |            8.6 |        10 |        7 |
-
+<br/>
 # Mid
 |                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:----------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
@@ -43,7 +45,7 @@
 | Mid [FLY Toucouille]  |        7 |       8 |     7 |        9 |      9 |            8   |         9 |        7 |
 | Mid [CLG Palafox]     |        9 |       9 |    10 |        6 |      8 |            8.4 |        10 |        6 |
 | Mid [DIG Blue]        |       10 |      10 |     9 |       10 |     10 |            9.8 |        10 |        9 |
-
+<br/>
 # ADC
 |                      |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
 |:---------------------|---------:|--------:|------:|---------:|-------:|---------------:|----------:|---------:|
@@ -58,6 +60,7 @@
 | ADC [CLG Luger]      |        6 |       9 |     7 |        9 |     10 |            8.2 |        10 |        6 |
 | ADC [DIG Neo]        |        7 |      10 |     8 |       10 |      7 |            8.4 |        10 |        7 |
 
+<br/>
 
 # Support
 |                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Average Rank |   Highest |   Lowest |
@@ -66,7 +69,7 @@
 | SUP [EG Vulcan]    |        2 |       2 |     2 |        2 |      3 |            2.2 |         3 |        2 |
 | SUP [TSM Shenyi]   |        3 |       3 |     3 |        3 |      5 |            3.4 |         5 |        3 |
 | SUP [100T Huhi]    |        4 |       4 |     4 |        6 |      2 |            4   |         6 |        2 |
-| SUP [C9 Isles]     |        5 |       5 |     5 |        4 |      6 |            5   |         6 |        4 |
+| SUP [C9 Winsome]     |        5 |       5 |     5 |        4 |      6 |            5   |         6 |        4 |
 | SUP [FLY Aphromoo] |        6 |       6 |     7 |        7 |      4 |            6   |         7 |        4 |
 | SUP [GGS Olleh]    |        8 |       9 |     6 |        5 |      7 |            7   |         9 |        5 |
 | SUP [CLG Poome]    |        7 |       7 |     8 |        9 |     10 |            8.2 |        10 |        7 |
