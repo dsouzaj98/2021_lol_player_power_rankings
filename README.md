@@ -34,7 +34,7 @@
 | Jungle [IMT Xerxe]        |        9 |       7 |     9 |        9 |      9 |      9 |        8.66667 |         9 |        7 |
 | Jungle [CLG Contractz]    |       10 |      10 |    10 |       10 |     10 |      4 |        9       |        10 |        4 |
 
-<br/>
+
 # **Mid**
 
 |                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Highest |   Lowest |
@@ -50,37 +50,37 @@
 | Mid [TSM Takeover]    |        8 |      10 |     7 |       10 |     10 |      7 |        8.66667 |        10 |        7 |
 | Mid [CLG Palafox]     |        9 |       8 |    10 |        9 |      8 |      8 |        8.66667 |        10 |        8 |
 
-<br/>
+
 # **ADC**
 
 |                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Highest |   Lowest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|-------:|---------------:|----------:|---------:|
-| ADC [EG Danny]     |        3 |       1 |     3 |        1 |      1 |      1 |        1.66667 |         3 |        1 |
-| ADC [C9 Berserker] |        2 |       2 |     1 |        3 |      3 |      2 |        2.16667 |         3 |        1 |
-| ADC [TL Hans Sama] |        1 |       3 |     2 |        2 |      2 |      3 |        2.16667 |         3 |        1 |
+| ADC [EG Danny]     |        3 |       1 |     3 |        1 |      1 |      1 |        1.66 |         3 |        1 |
+| ADC [C9 Berserker] |        2 |       2 |     1 |        3 |      3 |      2 |        2.17 |         3 |        1 |
+| ADC [TL Hans Sama] |        1 |       3 |     2 |        2 |      2 |      3 |        2.17|         3 |        1 |
 | ADC [100T FBI]     |        4 |       4 |     4 |        4 |      4 |      4 |        4       |         4 |        4 |
-| ADC [TSM Tactical] |        6 |       8 |     5 |        6 |      5 |      5 |        5.83333 |         8 |        5 |
+| ADC [TSM Tactical] |        6 |       8 |     5 |        6 |      5 |      5 |        5.83 |         8 |        5 |
 | ADC [DIG Neo]      |        7 |       6 |     6 |        7 |      6 |     10 |        7       |        10 |        6 |
-| ADC [CLG Luger]    |        5 |       5 |    10 |        5 |     10 |      8 |        7.16667 |        10 |        5 |
-| ADC [GGS Lost]     |        8 |       7 |     7 |        8 |      8 |      6 |        7.33333 |         8 |        6 |
-| ADC [FLY Johnsun]  |       10 |      10 |     9 |        9 |      7 |      7 |        8.66667 |        10 |        7 |
+| ADC [CLG Luger]    |        5 |       5 |    10 |        5 |     10 |      8 |        7.17 |        10 |        5 |
+| ADC [GGS Lost]     |        8 |       7 |     7 |        8 |      8 |      6 |        7.33 |         8 |        6 |
+| ADC [FLY Johnsun]  |       10 |      10 |     9 |        9 |      7 |      7 |        8.67 |        10 |        7 |
 | ADC [IMT Arrow]    |        9 |       9 |     8 |       10 |      9 |      9 |        9       |        10 |        8 |
 
-<br/>
+
 # **Support**
 
 |                        |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Highest |   Lowest |
 |:-----------------------|---------:|--------:|------:|---------:|-------:|-------:|---------------:|----------:|---------:|
-| SUP [TL CoreJJ]        |        1 |       2 |     1 |        1 |      1 |      1 |        1.16667 |         2 |        1 |
-| SUP [EG Vulcan]        |        2 |       1 |     2 |        2 |      2 |      4 |        2.16667 |         4 |        1 |
-| SUP [100T Huhi]        |        3 |       3 |     3 |        3 |      3 |      2 |        2.83333 |         3 |        2 |
-| SUP [C9 Winsome/Isles] |        7 |       5 |     5 |        6 |      6 |      3 |        5.33333 |         7 |        3 |
-| SUP [DIG Biofrost]     |        6 |       8 |     7 |        4 |      4 |      5 |        5.66667 |         8 |        4 |
-| SUP [FLY Aphromoo]     |        4 |       4 |     6 |        7 |      7 |      7 |        5.83333 |         7 |        4 |
-| SUP [GGS Olleh]        |        8 |       6 |     8 |        5 |      5 |      6 |        6.33333 |         8 |        5 |
-| SUP [TSM Shenyi]       |        5 |      10 |     4 |        9 |     10 |      9 |        7.83333 |        10 |        4 |
-| SUP [CLG Poome]        |        9 |       7 |     9 |       10 |      9 |      8 |        8.66667 |        10 |        7 |
-| SUP [IMT Destiny]      |       10 |       9 |    10 |        8 |      8 |     10 |        9.16667 |        10 |        8 |
+| SUP [TL CoreJJ]        |        1 |       2 |     1 |        1 |      1 |      1 |        1.17 |         2 |        1 |
+| SUP [EG Vulcan]        |        2 |       1 |     2 |        2 |      2 |      4 |        2.17 |         4 |        1 |
+| SUP [100T Huhi]        |        3 |       3 |     3 |        3 |      3 |      2 |        2.83 |         3 |        2 |
+| SUP [C9 Winsome/Isles] |        7 |       5 |     5 |        6 |      6 |      3 |        5.33 |         7 |        3 |
+| SUP [DIG Biofrost]     |        6 |       8 |     7 |        4 |      4 |      5 |        5.67 |         8 |        4 |
+| SUP [FLY Aphromoo]     |        4 |       4 |     6 |        7 |      7 |      7 |        5.83 |         7 |        4 |
+| SUP [GGS Olleh]        |        8 |       6 |     8 |        5 |      5 |      6 |        6.33 |         8 |        5 |
+| SUP [TSM Shenyi]       |        5 |      10 |     4 |        9 |     10 |      9 |        7.83 |        10 |        4 |
+| SUP [CLG Poome]        |        9 |       7 |     9 |       10 |      9 |      8 |        8.67 |        10 |        7 |
+| SUP [IMT Destiny]      |       10 |       9 |    10 |        8 |      8 |     10 |        9.17|        10 |        8 |
 
 
 ![stadium](images/LCS_stadium.jpg)
