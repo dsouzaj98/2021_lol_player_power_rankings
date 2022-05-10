@@ -6,9 +6,9 @@
 This brings us to the end of the Spring Split!  Here's a quick look at the definitive All-Pro List:
 
 # **1st Team**
-Top: EG Impact (3 1st, 1 2nd)
-Jungle: C9 Blaber (3 1st, 1 2nd, 2 3rd)
-Mid: TL Bjergsen (4 1st, 1 2nd)
+Top: EG Impact (3 1st, 1 2nd) <br/>
+Jungle: C9 Blaber (3 1st, 1 2nd, 2 3rd)<br/>
+Mid: TL Bjergsen (4 1st, 1 2nd)<br/>
 ADC: EG Danny (4 1st, 2 3rd)
 Support: TL CoreJJ (5 1st, 1 2nd)
 
