@@ -13,7 +13,7 @@ This brings us to the end of the Spring Split!  Here's a quick look at the defin
 **Support**: TL CoreJJ (5 1st, 1 2nd)<br/>
 
 ## ***2nd Team***
-**Top**: TL Bwipo (3 1st, 1 2nd)<br/>
+**Top**: TL Bwipo (2 1st, 2 2nd)<br/>
 **Jungle**: 100T Closer (3 2nd, 3 3rd)<br/>
 **Mid**: C9 Fudge (2 2nd, 3 3rd) / EG Jojopyun (2 1st, 1 2nd)<br/>
 **ADC**: C9 Berserker (1 1st, 3 2nd, 2 3rd) / TL Hans Sama (1 1st, 3 2nd, 2 3rd)<br/>
