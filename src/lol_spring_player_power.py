@@ -2,7 +2,6 @@ import matplotlib
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns
 from tabulate import tabulate
 # %matplotlib inline
 import collections
@@ -52,7 +51,7 @@ def create_player_rankings(df):
         df.set_index(['Name'], inplace=True)
         df=df.T
         df.sort_values('Average Rank', inplace=True)
-        print(df.to_markdown( headers='keys'))
+        # print(df.to_markdown( headers='keys'))
     return dfs
 
 # dfs=create_player_rankings(df)
