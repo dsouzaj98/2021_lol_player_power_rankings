@@ -5,26 +5,26 @@
 
 This brings us to the end of the Spring Split!  Here's a quick look at the definitive All-Pro List:
 
-# **1st Team**
+## ***1st Team***
 Top: EG Impact (3 1st, 1 2nd) <br/>
 Jungle: C9 Blaber (3 1st, 1 2nd, 2 3rd)<br/>
 Mid: TL Bjergsen (4 1st, 1 2nd)<br/>
-ADC: EG Danny (4 1st, 2 3rd)
-Support: TL CoreJJ (5 1st, 1 2nd)
+ADC: EG Danny (4 1st, 2 3rd)<br/>
+Support: TL CoreJJ (5 1st, 1 2nd)<br/>
 
-# **2nd Team**
-Top: TL Bwipo (3 1st, 1 2nd)
-Jungle: 100T Closer (3 2nd, 3 3rd)
-Mid: C9 Fudge (2 2nd, 3 3rd) / EG Jojopyun (2 1st, 1 2nd)
-ADC: C9 Berserker (1 1st, 3 2nd, 2 3rd) / TL Hans Sama (1 1st, 3 2nd, 2 3rd)
-Support: EG Vulcan (1 1st, 4 2nd)
+## ***2nd Team***
+Top: TL Bwipo (3 1st, 1 2nd)<br/>
+Jungle: 100T Closer (3 2nd, 3 3rd)<br/>
+Mid: C9 Fudge (2 2nd, 3 3rd) / EG Jojopyun (2 1st, 1 2nd)<br/>
+ADC: C9 Berserker (1 1st, 3 2nd, 2 3rd) / TL Hans Sama (1 1st, 3 2nd, 2 3rd)<br/>
+Support: EG Vulcan (1 1st, 4 2nd)<br/>
 
-# **3rd Team**
-Top: C9 Summit (1 1st, 1 2nd, 3 3rd)
-Jungle: TL Santorin (2 1st, 1 3rd)
-Mid: C9 Fudge (2 2nd, 3 3rd) / EG Jojopyun (2 1st, 1 2nd)
-ADC: C9 Berserker (1 1st, 3 2nd, 2 3rd) / TL Hans Sama (1 1st, 3 2nd, 2 3rd)
-Support: 100T Huhi (1 2nd, 5 3rd)
+## ***3rd Team***
+Top: C9 Summit (1 1st, 1 2nd, 3 3rd)<br/>
+Jungle: TL Santorin (2 1st, 1 3rd)<br/>
+Mid: C9 Fudge (2 2nd, 3 3rd) / EG Jojopyun (2 1st, 1 2nd)<br/>
+ADC: C9 Berserker (1 1st, 3 2nd, 2 3rd) / TL Hans Sama (1 1st, 3 2nd, 2 3rd)<br/>
+Support: 100T Huhi (1 2nd, 5 3rd)<br/>
 
 <br/><br/>
 # **Top**
