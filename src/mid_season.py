@@ -1,12 +1,12 @@
-from lol_spring_player_power import create_player_rankings
-from lol_spring_player_power import df
+# from lol_summer_player_power import create_player_rankings
+# from lol_summer_player_power import dfr
 import pandas as pd
 import numpy as np
 import collections
 
-old_dfs=create_player_rankings(df)
+# old_dfs=create_player_rankings(df)
 
-new_df=pd.read_excel('end_season.xlsx')
+new_df=pd.read_excel('start_2022_season.xlsx')
 def create_mid_player_rankings(df):
     top_dict={}
     jg_dict={}
