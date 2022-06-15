@@ -5,7 +5,7 @@
 
 <br/><br/>
 # **Top**
-|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   5 |   Average Rank |   Lowest |   Highest |
+|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
 | Top [TL Bwipo]     |        3 |       1 |     2 |        3 |      1 |   2 |        2       |         3 |        1 |
 | Top [EG Impact]    |        1 |       2 |     3 |        1 |      2 |   4 |        2.17 |         4 |        1 |
@@ -20,7 +20,7 @@
 
 # **Jungle**
 
-|                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   5 |   Average Rank |   Lowest |   Highest |
+|                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
 |:--------------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
 | Jungle [C9 Blaber]        |        1 |       2 |     1 |        4 |      1 |   2 |        1.83 |         4 |        1 |
 | Jungle [EG Inspired]      |        2 |       1 |     2 |        2 |      2 |   4 |        2.17 |         4 |        1 |
@@ -36,7 +36,7 @@
 
 # **Mid**
 
-|                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   5 |   Average Rank |   Lowest |   Highest |
+|                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
 |:----------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
 | Mid [TL Bjergsen]     |        1 |       2 |     1 |        3 |      1 |   1 |        1.5     |         3 |        1 |
 | Mid [C9 Jensen]       |        2 |       3 |     3 |        1 |      5 |   2 |        2.67 |         5 |        1 |
@@ -52,7 +52,7 @@
 
 # **ADC**
 
-|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   5 |   Average Rank |   Lowest |   Highest |
+|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
 | ADC [TL Hans Sama] |        1 |       1 |     2 |        2 |      1 |   3 |        1.67 |         3 |        1 |
 | ADC [C9 Berserker] |        2 |       2 |     1 |        1 |      3 |   2 |        1.83 |         3 |        1 |
@@ -68,7 +68,7 @@
 
 # **Support**
 
-|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   5 |   Average Rank |   Lowest |   Highest |
+|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
 |:-------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
 | SUP [TL CoreJJ]    |        1 |       1 |     1 |        1 |      1 |   1 |        1       |         1 |        1 |
 | SUP [EG Vulcan]    |        2 |       2 |     2 |        2 |      2 |   3 |        2.17 |         3 |        2 |
