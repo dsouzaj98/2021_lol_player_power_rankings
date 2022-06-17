@@ -1,4 +1,4 @@
-# 2021 Spring Player Rankings
+# 2022 Summer Player Rankings
 
 ![LCS](images/LCS_image.jpeg)
 <br/>
@@ -15,7 +15,7 @@
 | Top [IMT Revenge]  |        5 |       6 |     6 |        6 |      5 |  10 |        6.33 |        10 |        5 |
 | Top [TSM Huni]     |        6 |       7 |     5 |        7 |      7 |   7 |        6.5     |         7 |        5 |
 | Top [CLG Dhokla]   |        8 |       9 |     8 |        8 |      9 |   5 |        7.83 |         9 |        5 |
-| Top [FLY Kumo]     |       10 |       8 |    10 |        9 |      8 |   8 |        8.83 |        10 |        8 |
+| Top [FLY Kumo/Phillip]     |       10 |       8 |    10 |        9 |      8 |   8 |        8.83 |        10 |        8 |
 | Top [DIG Gamsu]    |        9 |      10 |     9 |       10 |     10 |   9 |        9.5     |        10 |        9 |
 
 # **Jungle**
