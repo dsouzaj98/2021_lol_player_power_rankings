@@ -1,8 +1,8 @@
-# 2022 Summer Player Rankings
+# 2023 Spring Player Rankings
 
 ![LCS](images/LCS_image.jpeg)
 <br/>
-
+This spring, we welcome back LCS legends Bjergsen and Doublelift who put aside their wheelchairs to pair up for one more run as members of 100 Thieves.  They will look to take down the new super team that is FlyQuest headed by a Korean powerhouse trio of Impact, VicLa and ADC prodigy Prince.  With stalwarts such as Cloud9 and Evil Geniuses still looking strong, this is shaping up to be one of the most competitive LCS splits ever.
 <br/><br/>
 # **Top**
 |                     |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Highest |   Lowest |
@@ -74,5 +74,10 @@
 | SUP [DIG Ignar]  |        8 |       8 |     9 |        7 |      9 |      9 |           8.33 |         7 |        9 |
 | SUP [IMT Fleshy] |       10 |      10 |    10 |       10 |      7 |      8 |           9.17 |         7 |       10 |
 
+
+Hottest takes from the Power Rankings
+1. Pretty much all of Kwan's picks
+2. There were no unanimous rankings for any player
+3. More to follow
 
 ![stadium](images/LCS_stadium.jpg)
