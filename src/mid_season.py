@@ -6,7 +6,7 @@ import collections
 
 # old_dfs=create_player_rankings(df)
 
-new_df=pd.read_excel('start_2022_season.xlsx')
+new_df=pd.read_excel('spring_2023.xlsx')
 def create_mid_player_rankings(df):
     top_dict={}
     jg_dict={}
@@ -41,7 +41,7 @@ def create_mid_player_rankings(df):
         pos.loc['Average Rank']=df.mean()
         pos.loc['Lowest']=df.max()
         pos.loc['Highest']=df.min()
-        pos.loc['Change']= pos.loc['Average Rank']-old_dfs[x].loc['Average Rank']
+        # pos.loc['Change']= pos.loc['Average Rank']-old_dfs[x].loc['Average Rank']
         x+=1
         pos.reset_index(inplace=True)
         pos.rename(columns={'index': 'Name'}, inplace=True)

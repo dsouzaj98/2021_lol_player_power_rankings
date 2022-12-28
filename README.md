@@ -5,81 +5,74 @@
 
 <br/><br/>
 # **Top**
-|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
-|:-------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
-| Top [TL Bwipo]     |        3 |       1 |     2 |        3 |      1 |   2 |        2       |         3 |        1 |
-| Top [EG Impact]    |        1 |       2 |     3 |        1 |      2 |   4 |        2.17 |         4 |        1 |
-| Top [C9 Fudge]     |        2 |       3 |     1 |        2 |      3 |   3 |        2.33 |         3 |        1 |
-| Top [100T Ssumday] |        4 |       4 |     4 |        4 |      4 |   1 |        3.5     |         4 |        1 |
-| Top [GGS Licorice] |        7 |       5 |     7 |        5 |      6 |   6 |        6       |         7 |        5 |
-| Top [IMT Revenge]  |        5 |       6 |     6 |        6 |      5 |  10 |        6.33 |        10 |        5 |
-| Top [TSM Huni]     |        6 |       7 |     5 |        7 |      7 |   7 |        6.5     |         7 |        5 |
-| Top [CLG Dhokla]   |        8 |       9 |     8 |        8 |      9 |   5 |        7.83 |         9 |        5 |
-| Top [FLY Kumo/Phillip]     |       10 |       8 |    10 |        9 |      8 |   8 |        8.83 |        10 |        8 |
-| Top [DIG Gamsu]    |        9 |      10 |     9 |       10 |     10 |   9 |        9.5     |        10 |        9 |
-
+|                     |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Highest |   Lowest |
+|:--------------------|---------:|--------:|------:|---------:|-------:|-------:|---------------:|----------:|---------:|
+| Top [C9 Fudge]      |        3 |       1 |     2 |        3 |      3 |      1 |           2.17 |         1 |        3 |
+| Top [TL Summit]     |        2 |       3 |     1 |        5 |      1 |      2 |           2.33 |         1 |        5 |
+| Top [FLY Impact]    |        1 |       2 |     4 |        1 |      2 |      6 |           2.67 |         1 |        6 |
+| Top [EG Ssumday]    |        4 |       4 |     3 |        2 |      4 |      4 |           3.5  |         2 |        4 |
+| Top [100T Tenacity] |        5 |       5 |     5 |        4 |      6 |      3 |           4.67 |         3 |        6 |
+| Top [DIG Armut]     |        6 |       6 |     6 |        6 |      5 |      9 |           6.33 |         5 |        9 |
+| Top [IMT Revenge]   |        7 |       7 |     8 |        8 |      8 |      8 |           7.67 |         7 |        8 |
+| Top [CLG Dhokla]    |        9 |       8 |     7 |        9 |     10 |      7 |           8.33 |         7 |       10 |
+| Top [TSM Solo]      |        8 |      10 |     9 |        7 |      7 |     10 |           8.5  |         7 |       10 |
+| Top [GGS Licorice]  |       10 |       9 |    10 |       10 |      9 |      5 |           8.83 |         5 |       10 |
+<br/><br/>
 # **Jungle**
-
-|                           |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
-|:--------------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
-| Jungle [C9 Blaber]        |        1 |       2 |     1 |        4 |      1 |   2 |        1.83 |         4 |        1 |
-| Jungle [EG Inspired]      |        2 |       1 |     2 |        2 |      2 |   4 |        2.17 |         4 |        1 |
-| Jungle [100T Closer]      |        3 |       3 |     4 |        1 |      3 |   3 |        2.83 |         4 |        1 |
-| Jungle [TL Santorin]      |        4 |       4 |     3 |        3 |      4 |   1 |        3.17 |         4 |        1 |
-| Jungle [TSM Spica]        |        5 |       6 |     5 |        5 |      5 |   6 |        5.33 |         6 |        5 |
-| Jungle [GGS Pridestalker] |        6 |       5 |     6 |        6 |      6 |   5 |        5.67 |         6 |        5 |
-| Jungle [IMT Kenvi]        |        7 |       7 |     7 |       10 |      9 |   9 |        8.17 |        10 |        7 |
-| Jungle [DIG River]        |        8 |       8 |     8 |        7 |      8 |  10 |        8.17 |        10 |        7 |
-| Jungle [FLY Josedeodo]    |        9 |       9 |     9 |        8 |      7 |   8 |        8.33 |         9 |        7 |
-| Jungle [CLG Contractz]    |       10 |      10 |    10 |        9 |     10 |   7 |        9.33 |        10 |        7 |
-
-
+|                        |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Highest |   Lowest |
+|:-----------------------|---------:|--------:|------:|---------:|-------:|-------:|---------------:|----------:|---------:|
+| Jungle [EG Inspired]   |        1 |       1 |     3 |        1 |      1 |      4 |           1.83 |         1 |        4 |
+| Jungle [C9 Blaber]     |        2 |       3 |     1 |        3 |      2 |      1 |           2    |         1 |        3 |
+| Jungle [TL Pyosik]     |        3 |       2 |     2 |        4 |      3 |      2 |           2.67 |         2 |        4 |
+| Jungle [100T Closer]   |        4 |       4 |     4 |        2 |      5 |      3 |           3.67 |         2 |        5 |
+| Jungle [FLY Spica]     |        5 |       5 |     5 |        5 |      4 |      6 |           5    |         4 |        6 |
+| Jungle [DIG Santorin]  |        6 |       6 |     6 |        6 |      6 |      9 |           6.5  |         6 |        9 |
+| Jungle [GGS River]     |        7 |       8 |     7 |        9 |      7 |      5 |           7.17 |         5 |        9 |
+| Jungle [IMT Kenvi]     |        8 |       7 |     9 |        8 |      8 |      8 |           8    |         7 |        9 |
+| Jungle [CLG Contractz] |        9 |       9 |     8 |        7 |      9 |      7 |           8.17 |         7 |        9 |
+| Jungle [TSM Bugi]      |       10 |      10 |    10 |       10 |     10 |     10 |          10    |        10 |       10 |
+<br/><br/>
 # **Mid**
-
-|                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
-|:----------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
-| Mid [TL Bjergsen]     |        1 |       2 |     1 |        3 |      1 |   1 |        1.5     |         3 |        1 |
-| Mid [C9 Jensen]       |        2 |       3 |     3 |        1 |      5 |   2 |        2.67 |         5 |        1 |
-| Mid [EG Jojopyun]     |        3 |       1 |     5 |        2 |      3 |   3 |        2.83 |         5 |        1 |
-| Mid [100T Abbedagge]  |        4 |       4 |     4 |        5 |      2 |   4 |        3.83 |         5 |        2 |
-| Mid [TSM Maple]       |        5 |       7 |     2 |        4 |     10 |   5 |        5.5     |        10 |        2 |
-| Mid [FLY Toucouille]  |        7 |       5 |     6 |        6 |      4 |   7 |        5.83 |         7 |        4 |
-| Mid [DIG Blue]        |        6 |       6 |     8 |        8 |      6 |  10 |        7.33 |        10 |        6 |
-| Mid [IMT POE]         |        8 |       8 |     9 |        7 |      7 |   9 |        8       |         9 |        7 |
-| Mid [GGS Ablazeolive] |        9 |       9 |     7 |        9 |      9 |   8 |        8.5     |         9 |        7 |
-| Mid [CLG Palafox]     |       10 |      10 |    10 |       10 |      8 |   6 |        9       |        10 |        6 |
-
-
+|                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Highest |   Lowest |
+|:----------------------|---------:|--------:|------:|---------:|-------:|-------:|---------------:|----------:|---------:|
+| Mid [EG Jojopyun]     |        1 |       1 |     2 |        2 |      2 |      4 |           2    |         1 |        4 |
+| Mid [FLY VicLa]       |        2 |       2 |     1 |        1 |      1 |      6 |           2.17 |         1 |        6 |
+| Mid [100T Bjergsen]   |        3 |       4 |     4 |        4 |      3 |      3 |           3.5  |         3 |        4 |
+| Mid [C9 Diplex]       |        5 |       3 |     3 |        6 |      4 |      1 |           3.67 |         1 |        6 |
+| Mid [DIG Jensen]      |        4 |       5 |     5 |        5 |      6 |      9 |           5.67 |         4 |        9 |
+| Mid [TL Haeri]        |        7 |       8 |     7 |        7 |      7 |      2 |           6.33 |         2 |        8 |
+| Mid [GGS Gori]        |        8 |       6 |    10 |        3 |     10 |      5 |           7    |         3 |       10 |
+| Mid [TSM Maple]       |        6 |       7 |     6 |       10 |      5 |     10 |           7.33 |         5 |       10 |
+| Mid [CLG Palafox]     |        9 |       9 |     9 |        8 |      9 |      7 |           8.5  |         7 |        9 |
+| Mid [IMT Ablazeolive] |       10 |      10 |     8 |        9 |      8 |      8 |           8.83 |         8 |       10 |
+<br/><br/>
 # **ADC**
-
-|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
-|:-------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
-| ADC [TL Hans Sama] |        1 |       1 |     2 |        2 |      1 |   3 |        1.67 |         3 |        1 |
-| ADC [C9 Berserker] |        2 |       2 |     1 |        1 |      3 |   2 |        1.83 |         3 |        1 |
-| ADC [EG Danny]     |        3 |       3 |     3 |        3 |      2 |   1 |        2.5     |         3 |        1 |
-| ADC [100T FBI]     |        4 |       4 |     4 |        5 |      4 |   4 |        4.17 |         5 |        4 |
-| ADC [TSM Tactical] |        5 |       9 |     5 |        6 |      5 |   5 |        5.83 |         9 |        5 |
-| ADC [CLG Luger]    |        6 |       5 |     6 |        4 |     10 |   7 |        6.33 |        10 |        4 |
-| ADC [DIG Neo]      |        7 |       6 |     7 |        7 |      6 |   9 |        7       |         9 |        6 |
-| ADC [IMT Lost]     |        8 |       8 |     8 |        9 |      7 |   8 |        8       |         9 |        7 |
-| ADC [GGS Stixxay]  |       10 |       7 |    10 |        8 |      8 |  10 |        8.83 |        10 |        7 |
-| ADC [FLY Johnsun]  |        9 |      10 |     9 |       10 |      9 |   6 |        8.83 |        10 |        6 |
-
-
+|                       |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Highest |   Lowest |
+|:----------------------|---------:|--------:|------:|---------:|-------:|-------:|---------------:|----------:|---------:|
+| ADC [C9 Berserker]    |        2 |       1 |     1 |        2 |      1 |      1 |           1.33 |         1 |        2 |
+| ADC [FLY Prince]      |        1 |       2 |     2 |        1 |      2 |      6 |           2.33 |         1 |        6 |
+| ADC [EG FBI]          |        3 |       3 |     3 |        4 |      4 |      4 |           3.5  |         3 |        4 |
+| ADC [100T Doublelift] |        4 |       5 |     5 |        3 |      3 |      3 |           3.83 |         3 |        5 |
+| ADC [TL Yeon]         |        6 |       6 |     4 |        7 |      5 |      2 |           5    |         2 |        7 |
+| ADC [CLG Luger]       |        5 |       4 |     6 |        6 |      8 |      7 |           6    |         4 |        8 |
+| ADC [GGS Stixxay]     |       10 |       7 |    10 |        5 |     10 |      5 |           7.83 |         5 |       10 |
+| ADC [IMT Tactical]    |        8 |      10 |     8 |        8 |      7 |      8 |           8.17 |         7 |       10 |
+| ADC [DIG Spawn]       |        7 |       8 |     7 |        9 |      9 |      9 |           8.17 |         7 |        9 |
+| ADC [TSM Neo]         |        9 |       9 |     9 |       10 |      6 |     10 |           8.83 |         6 |       10 |
+<br/><br/>
 # **Support**
-
-|                    |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Lowest |   Highest |
-|:-------------------|---------:|--------:|------:|---------:|-------:|----:|---------------:|----------:|---------:|
-| SUP [TL CoreJJ]    |        1 |       1 |     1 |        1 |      1 |   1 |        1       |         1 |        1 |
-| SUP [EG Vulcan]    |        2 |       2 |     2 |        2 |      2 |   3 |        2.17 |         3 |        2 |
-| SUP [100T Huhi]    |        3 |       3 |     4 |        3 |      3 |   4 |        3.33 |         4 |        3 |
-| SUP [C9 Zven]      |        8 |       5 |     6 |        4 |      5 |   2 |        5       |         8 |        2 |
-| SUP [DIG Biofrost] |        7 |       7 |     5 |        6 |      4 |   7 |        6       |         7 |        4 |
-| SUP [FLY Aphromoo] |        5 |       4 |     7 |        9 |      7 |   5 |        6.17 |         9 |        4 |
-| SUP [GGS Olleh]    |        9 |       6 |     8 |        7 |      6 |   6 |        7       |         9 |        6 |
-| SUP [TSM Shenyi]   |        4 |      10 |     3 |        8 |     10 |  10 |        7.5     |        10 |        3 |
-| SUP [IMT Ignar]    |        6 |       9 |     9 |        5 |      8 |   8 |        7.5     |         9 |        5 |
-| SUP [CLG Poome]    |       10 |       8 |    10 |       10 |      9 |   9 |        9.33 |        10 |        8 |
+|                  |   Johann |   Milad |   Tak |   Joimes |   Zain |   Kwan |   Average Rank |   Highest |   Lowest |
+|:-----------------|---------:|--------:|------:|---------:|-------:|-------:|---------------:|----------:|---------:|
+| SUP [TL CoreJJ]  |        1 |       2 |     1 |        3 |      1 |      2 |           1.67 |         1 |        3 |
+| SUP [EG Vulcan]  |        2 |       1 |     2 |        1 |      2 |      4 |           2    |         1 |        4 |
+| SUP [100T Busio] |        3 |       4 |     3 |        2 |      4 |      3 |           3.17 |         2 |        4 |
+| SUP [C9 Zven]    |        5 |       3 |     4 |        6 |      5 |      1 |           4    |         1 |        6 |
+| SUP [FLY Eyla]   |        4 |       5 |     5 |        5 |      3 |      6 |           4.67 |         3 |        6 |
+| SUP [GGS Huhi]   |        9 |       7 |     6 |        4 |      8 |      5 |           6.5  |         4 |        9 |
+| SUP [TSM Chime]  |        6 |       9 |     7 |        8 |      6 |     10 |           7.67 |         6 |       10 |
+| SUP [CLG Poome]  |        7 |       6 |     8 |        9 |     10 |      7 |           7.83 |         6 |       10 |
+| SUP [DIG Ignar]  |        8 |       8 |     9 |        7 |      9 |      9 |           8.33 |         7 |        9 |
+| SUP [IMT Fleshy] |       10 |      10 |    10 |       10 |      7 |      8 |           9.17 |         7 |       10 |
 
 
 ![stadium](images/LCS_stadium.jpg)

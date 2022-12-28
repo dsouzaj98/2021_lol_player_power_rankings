@@ -6,7 +6,7 @@ from tabulate import tabulate
 # %matplotlib inline
 import collections
 
-df=pd.read_excel('start_2022_season.xlsx')
+df=pd.read_excel('spring_2023.xlsx')
 def create_player_rankings(df):
     top_dict={}
     jg_dict={}
@@ -36,10 +36,10 @@ def create_player_rankings(df):
     average=[]
 
     for pos in dfs:
-        pos.rename(index={0:'Johann', 1: 'Milad', 2: 'Tak', 3: 'Joimes', 4:'Zain'}, inplace=True)
+        pos.rename(index={0:'Johann', 1: 'Milad', 2: 'Tak', 3: 'Joimes', 4:'Zain', 5: 'Kwan'}, inplace=True)
         pos.loc['Average Rank']=df.mean()
-        pos.loc['Highest']=df.max()
-        pos.loc['Lowest']=df.min()
+        pos.loc['Highest']=df.min()
+        pos.loc['Lowest']=df.max()
         pos.reset_index(inplace=True)
         pos.rename(columns={'index': 'Name'}, inplace=True)
         s=pos.iloc[4]
@@ -51,6 +51,7 @@ def create_player_rankings(df):
         df.set_index(['Name'], inplace=True)
         df=df.T
         df.sort_values('Average Rank', inplace=True)
+        df=df.round(2)
         print(df.to_markdown( headers='keys'))
     return dfs
 
